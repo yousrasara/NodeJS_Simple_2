@@ -37,10 +37,8 @@ app.get('/', function(req, res){
   res.render('index', {userCount: userCount}); /* update this line to also pass userbytwo */
 });
 
-app.listen(3000, function () {
-  console.log('Example app listening on port 3000!')
 // start server on the specified port and binding host
-//app.listen(appEnv.port, '0.0.0.0', function() {
+app.listen(appEnv.port, '0.0.0.0', function() {
   // print a message when the server starts listening
-//  console.log("server starting on " + appEnv.url);
+  console.log("server starting on " + appEnv.url);
 });
