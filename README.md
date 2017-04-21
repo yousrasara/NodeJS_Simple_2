@@ -1,16 +1,38 @@
-# Node.js Hello World Sample
+<<<<<<< HEAD
+This is the second project in the “Build your first Node.js website Node.js" 
+article.  http://www.ibm.com/developerworks/library/wa-simplenode2-app/index.html
 
-This application demonstrates a simple, reusable Node.js web application based on the Express framework.
+This project is designed to add Express and formatted HTML pages to your application.   
+This is a node.js with express server, extended with a user count variable passed through to the HTML.  
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/nodejs-helloworld)
+Two CoderDojo style step by step worksheets to first deploy the application and then edit it are in the worksheets directory. 
+The step by step directions include edits to the text and adding a new variable.  
 
-## Run the app locally
+The solutions directory contains the code after the article or worksheets  is followed.  
 
-1. [Install Node.js][]
-+ cd into this project's root directory
-+ Run `npm install` to install the app's dependencies
-+ Run `npm start` to start the app
-+ Access the running app in a browser at <http://localhost:6001>
+The other project in the series are
+	NodeJS_Simple_1 - Node.js server and counter
+	NodeJS_Simple_3 - Adds Redis Database to store counter. 
+   
+The project is designed for direct deployment to Bluemix.  
 
-[Install Node.js]: https://nodejs.org/en/download/
-"# cscmaroc10" 
+=======
+This is the second project in the “Build your first Node.js website Node.js" 
+article.  http://www.ibm.com/developerworks/library/wa-simplenode2-app/index.html
+
+This project is designed to add Express and formatted HTML pages to your application.   
+This is a node.js with express server, extended with a user count variable passed through to the HTML.  
+
+Two CoderDojo style step by step worksheets to first deploy the application and then edit it are in the worksheets directory. 
+The step by step directions include edits to the text and adding a new variable.  
+
+The solutions directory contains the code after the article or worksheets  is followed.  
+
+The other project in the series are
+	NodeJS_Simple_1 - Node.js server and counter
+	NodeJS_Simple_3 - Adds Redis Database to store counter. 
+   
+The project is designed for direct deployment to Bluemix.  
+
+>>>>>>> origin/master
+This project is licensed under the Apache 2.0 license.  See the license.txt.
