@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: cscmaroc10
-  host: cscmaroc10
+  name: yousrasara
+  host: yousrasara
   disk_quota: 1024M
